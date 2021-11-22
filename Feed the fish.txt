@@ -1,0 +1,33 @@
+Feed the fish 
+
+Story : Your a little fish that has to get levels and defeat npcs to survive
+
+Goal: You need to get to the max level and kill all the npcs.
+f
+Rules: You cannot go out of the water;
+       You have to eat food to survive or you will die;
+       You can go anywhere in the ocean's borders;
+       You cannot sit outside of the npcs border for too long;
+       The Npcs cannot be a higher level then you on equal;
+       The Npcs cannot reach max level only mid maximum level;
+       Npcs cannot eat food;
+
+PC and NPC: There is 1 PC which is the fish and 4 Npc which have a set space which in the
+swim. 
+
+Balance: Player has to throw a rock at the npcs to kill them they will press space bar to
+throw the rock they find at the south border of the ocean and press left click or right click
+depending on the direction they wanna throw the rock in.
+
+
+Adaptivity:
+
+Chance vs skill:
+
+Feedback:
+fish touches an item to go down
+You To Teacher
+then whichever direction he was facing will change
+if he faces left then goes down he changes to the right direction
+if is facing the right direction he changes to the left direction
+and when he gets to the bottom and grabs the final item he win
